@@ -1,0 +1,48 @@
+h1{ 
+color: green;
+letter-spacing: 5px;
+
+}
+
+h2{
+color: red;
+
+}
+
+h3{
+
+color: blue;
+
+}
+
+#tytul{
+width: 100%;
+}
+p{
+text-indent: 15px;
+border: 1px solid black;
+padding: 0px;
+width: 958px;
+background-color: #6699FF;
+}
+
+p::first-letter{
+font-size: 200%;
+font-family: "Arial";
+color: #8A2BE2;
+}
+
+*{font-family: "Arial";}
+
+#menu{
+position: absolute;
+right: 0px;
+width: 300 px;
+border: 3px solid #73AD21;
+padding: 1px;
+background-color: orange;
+}
+a:hover{
+color: green;
+cursor: default;
+}

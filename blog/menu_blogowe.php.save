@@ -1,0 +1,6 @@
+<strong>Menu</strong>
+<ul>
+	<li><a href="blog.html">Nowy blog</a></li>
+	<li><a href="wpis.php">Nowy wpis</a></li>
+i><a href="blog.php">Lista blogów</a></li>
+</ul>

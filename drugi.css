@@ -1,0 +1,14 @@
+
+link
+
+p::first-letter{
+	font-size: 200%;
+	color: #8A2BE2;
+
+}
+
+a:hover{
+		color: green;
+		cursor: default;
+
+}
